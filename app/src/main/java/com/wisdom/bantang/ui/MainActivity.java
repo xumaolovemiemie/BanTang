@@ -1,7 +1,9 @@
-package com.wisdom.bantang;
+package com.wisdom.bantang.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.wisdom.bantang.R;
 
 /**
  *
